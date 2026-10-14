@@ -1,0 +1,1 @@
+from paginas.pagina_catalogo import PaginaCatalogo
