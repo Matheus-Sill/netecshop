@@ -210,6 +210,6 @@ Não é recomendado instalar versões antigas do navegador ou desativar atualiza
 
 ## Autor
 
-Matheus Sill
+Matheus Sill e wiltienem
 
 Projeto acadêmico para estudo de automação de testes de software.
